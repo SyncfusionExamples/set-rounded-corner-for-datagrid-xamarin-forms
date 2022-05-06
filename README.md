@@ -1,2 +1,1 @@
-# set-rounded-corner-for-datagrid-xamarin-forms
-How to set rounded corner for Xamarin.Forms DataGrid (SfDataGrid) ?
+**[View document in Syncfusion Xamarin Knowledge Base](https://www.syncfusion.com/kb/13168/how-to-set-rounded-corner-for-xamarin-forms-datagrid-sfdatagrid)**
